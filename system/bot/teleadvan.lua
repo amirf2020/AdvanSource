@@ -244,8 +244,8 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {111984481,131020409},--Sudo users
-    support_gp = {111111111},--Support id
+    sudo_users = {196560568},--Sudo users
+    support_gp = {},--Support id
     moderation = {data = 'system/data/advansys.json'},
   }
   serialize_to_file(config, './system/data/config.lua')
